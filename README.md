@@ -1,4 +1,4 @@
-## Oláá eu sou a Matheus Silva, criador de conteúdo de programação e tecnologia!
+## Oláá eu sou a Matheus Augusto, criador de conteúdo de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/matheusitapema">
